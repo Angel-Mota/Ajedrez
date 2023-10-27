@@ -1,0 +1,8 @@
+C:\Users\angel\source\repos\Ajedrez\Ajedrez\bin\Debug\Ajedrez.exe.config
+C:\Users\angel\source\repos\Ajedrez\Ajedrez\bin\Debug\Ajedrez.exe
+C:\Users\angel\source\repos\Ajedrez\Ajedrez\bin\Debug\Ajedrez.pdb
+C:\Users\angel\source\repos\Ajedrez\Ajedrez\obj\Debug\Ajedrez.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\Ajedrez\Ajedrez\obj\Debug\Ajedrez.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel\source\repos\Ajedrez\Ajedrez\obj\Debug\Ajedrez.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Ajedrez\Ajedrez\obj\Debug\Ajedrez.exe
+C:\Users\angel\source\repos\Ajedrez\Ajedrez\obj\Debug\Ajedrez.pdb
